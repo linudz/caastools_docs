@@ -1,0 +1,5 @@
+site_name: CAAStools 1.0
+site_description: Convergent Amino Acid Substitutions detection and tesing tool.
+
+theme:
+    name: readthedocs
